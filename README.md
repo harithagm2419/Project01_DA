@@ -83,3 +83,31 @@ Some insights discovered during the analysis:
 ---
 
 ## Project Structure
+food-delivery-analysis
+
+├── data
+│ └── synthetic_fooddelivery_dataset.csv
+
+├── notebooks
+│ └── kaggle.ipynb
+
+├── food_delivery_clean.csv
+
+└── README.md
+
+
+
+---
+
+## Future Improvements
+
+Possible next steps for this project:
+
+- Build a predictive model to estimate delivery time
+- Create an interactive dashboard
+- Perform sentiment analysis on customer reviews
+
+---
+
+## Author
+Data analysis project created as part of my learning journey in data analytics.
