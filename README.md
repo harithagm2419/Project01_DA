@@ -85,13 +85,16 @@ Some insights discovered during the analysis:
 ## Project Structure
 food-delivery-analysis
 
-├── data
+├──Raw data
 │ └── synthetic_fooddelivery_dataset.csv
 
 ├── notebooks
 │ └── kaggle.ipynb
 
-├── food_delivery_clean.csv
+├── Transformed Data
+│ └──food_delivery_clean.csv
+
+├── Food Delivery Dashboard
 
 └── README.md
 
