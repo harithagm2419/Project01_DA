@@ -81,6 +81,11 @@ Some insights discovered during the analysis:
 - Jupyter Notebook
 
 ---
+## Final DashBoard
+
+<img width="1365" height="798" alt="image" src="https://github.com/user-attachments/assets/af8ecec9-4148-43a2-9855-53d3727d048e" />
+
+
 
 ## Project Structure
 food-delivery-analysis
